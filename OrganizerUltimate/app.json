@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Organizer Ultimate",
+    "slug": "organizer-ultimate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0D1B2A"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.organizer.ultimate"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0D1B2A"
+      },
+      "package": "com.organizer.ultimate"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
